@@ -11,7 +11,7 @@ For each row input a space seperated list of elements, e.g 1 0 0 2 1
 1. The eigenvectors, eigenvalues and multiplicities.  
 2. The characteristic polynomial.
 3. Interactive minimal polynomial calculator. (Pretty epic imo).
-4. JCF and RCF Helper (Doesn't actually find RCF)
+4. JCF, Jordan Basis and RCF Helper (Doesn't actually find RCF)
 5. Gram Schmidt
 6. fx-CG420 (Freeform calculator).
 
