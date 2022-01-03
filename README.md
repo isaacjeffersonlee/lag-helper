@@ -2,6 +2,7 @@
 
 ##### Author: Isaac Lee
 
+### Summary
 This notebook is designed to aid with tedious matrix related calculations.  
 Input a matrix with a given number of rows.  
 For each row input a space seperated list of elements, e.g 1 0 0 2 1  
@@ -13,3 +14,23 @@ For each row input a space seperated list of elements, e.g 1 0 0 2 1
 4. JCF and RCF Helper (Doesn't actually find RCF)
 5. Gram Schmidt
 6. fx-CG420 (Freeform calculator).
+
+### Files
+Both lag_helper_jupyter.ipynb and lag_helper_functions.py should
+be in the same directory.
+- lag_helper_jupyter.ipynb is the notebook to be run.
+- lag_helper_functions.py is imported into lag_helper_jupyter and
+should not be run directly.
+
+### Requirements
+
+```
+pip install sympy
+pip install jupyterlab
+```
+
+Then to run the notebook do:
+
+```
+jupyterlab lag_helper_jupyter.ipynb
+```
