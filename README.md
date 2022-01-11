@@ -13,7 +13,8 @@ For each row input a space seperated list of elements, e.g 1 0 0 2 1
 3. Interactive minimal polynomial calculator. (Pretty epic imo).
 4. JCF, Jordan Basis and RCF Helper (Doesn't actually find RCF)
 5. Gram Schmidt
-6. fx-CG420 (Freeform calculator).
+6. Freeform calculator, rank, kernel, ... any sympy operation
+7. Polynomials, factor over Finite fields, lcm, gcd, solve for x, ...
 
 ### Files
 Both lag_helper_jupyter.ipynb and lag_helper_functions.py should
